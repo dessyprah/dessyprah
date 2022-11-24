@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @dessyprah
-- 👀 I’m interested in learning 
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 👀 My first readme
 
 <!---
 dessyprah/dessyprah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
